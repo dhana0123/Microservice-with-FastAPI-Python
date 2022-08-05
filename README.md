@@ -3,7 +3,9 @@
 ## Three services
 
 [x] Inventory (PYTHON)
+
 [x] payments (PYTHON)
+
 [x] frontend app (ReactJS)
 
 
