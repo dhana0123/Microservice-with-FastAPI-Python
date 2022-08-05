@@ -6,6 +6,7 @@
 [x] payments (PYTHON)
 [x] frontend app (ReactJS)
 
+
 ## Technologies Used
   - Rest API implementation
   - Redis as a database for faster access
