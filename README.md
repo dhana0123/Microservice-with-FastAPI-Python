@@ -2,11 +2,9 @@
 
 ## Three services
 
- [x] Inventory (PYTHON)
-
- [x] payments (PYTHON)
-
- [x] frontend app (ReactJS)
+1. Inventory (PYTHON)
+1. payments (PYTHON)
+1. frontend app (ReactJS)
 
 
 ## Technologies Used
