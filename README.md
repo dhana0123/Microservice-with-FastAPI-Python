@@ -1,9 +1,9 @@
 # Microservice with FastAPI 
 
 ## Three services
-[x] Inventory (PYTHON)
-[x] payments (PYTHON)
-[x] frontend app (ReactJS)
+[X] Inventory (PYTHON)
+[X] payments (PYTHON)
+[X] frontend app (ReactJS)
 
 ## Technologies Used
   - Rest API implementation
